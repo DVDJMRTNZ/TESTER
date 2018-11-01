@@ -5,3 +5,4 @@ print("scary untested code")
 y = 9
 y = 2**y-y**2+3
 print(y)
+print(y-1)
